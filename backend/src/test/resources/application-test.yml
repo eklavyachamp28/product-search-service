@@ -1,0 +1,4 @@
+app:
+  search:
+    index: products-it
+    seed-on-startup: false
