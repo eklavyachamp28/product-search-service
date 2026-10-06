@@ -1,0 +1,1670 @@
+[
+ {
+  "id": "P0001",
+  "name": "Auralis Wireless Noise Cancelling Headphones",
+  "description": "Balanced sound with deep bass and clear vocals. Rated highly for build quality.",
+  "brand": "Auralis",
+  "category": "Audio",
+  "price": 94.99,
+  "rating": 3.5,
+  "reviewCount": 1146,
+  "inStock": true,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "anc",
+   "over-ear"
+  ],
+  "releasedOn": "2024-11-23"
+ },
+ {
+  "id": "P0002",
+  "name": "Sonora Wireless Noise Cancelling Headphones SE",
+  "description": "Balanced sound with deep bass and clear vocals. Popular choice for gifting.",
+  "brand": "Sonora",
+  "category": "Audio",
+  "price": 109.99,
+  "rating": 3.2,
+  "reviewCount": 770,
+  "inStock": true,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "anc",
+   "over-ear"
+  ],
+  "releasedOn": "2024-06-01"
+ },
+ {
+  "id": "P0003",
+  "name": "Kestrel Wireless Noise Cancelling Headphones SE",
+  "description": "Balanced sound with deep bass and clear vocals. Ships in recyclable packaging.",
+  "brand": "Kestrel",
+  "category": "Audio",
+  "price": 94.99,
+  "rating": 4.4,
+  "reviewCount": 3439,
+  "inStock": true,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "anc",
+   "over-ear"
+  ],
+  "releasedOn": "2024-08-26"
+ },
+ {
+  "id": "P0004",
+  "name": "Auralis True Wireless Earbuds Lite",
+  "description": "Balanced sound with deep bass and clear vocals. Includes a two-year warranty.",
+  "brand": "Auralis",
+  "category": "Audio",
+  "price": 164.99,
+  "rating": 4.5,
+  "reviewCount": 1310,
+  "inStock": true,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "in-ear"
+  ],
+  "releasedOn": "2023-12-15"
+ },
+ {
+  "id": "P0005",
+  "name": "Sonora True Wireless Earbuds Lite",
+  "description": "Balanced sound with deep bass and clear vocals. Rated highly for build quality.",
+  "brand": "Sonora",
+  "category": "Audio",
+  "price": 54.99,
+  "rating": 3.3,
+  "reviewCount": 3115,
+  "inStock": false,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "in-ear"
+  ],
+  "releasedOn": "2025-05-17"
+ },
+ {
+  "id": "P0006",
+  "name": "Kestrel True Wireless Earbuds Lite",
+  "description": "Balanced sound with deep bass and clear vocals. Includes a two-year warranty.",
+  "brand": "Kestrel",
+  "category": "Audio",
+  "price": 129.99,
+  "rating": 4.4,
+  "reviewCount": 1025,
+  "inStock": true,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "in-ear"
+  ],
+  "releasedOn": "2024-01-23"
+ },
+ {
+  "id": "P0007",
+  "name": "Auralis Studio Monitor Headphones",
+  "description": "Balanced sound with deep bass and clear vocals. Comes in three colours.",
+  "brand": "Auralis",
+  "category": "Audio",
+  "price": 164.99,
+  "rating": 4.2,
+  "reviewCount": 2965,
+  "inStock": true,
+  "tags": [
+   "wired",
+   "studio",
+   "over-ear"
+  ],
+  "releasedOn": "2024-12-22"
+ },
+ {
+  "id": "P0008",
+  "name": "Sonora Studio Monitor Headphones",
+  "description": "Balanced sound with deep bass and clear vocals. Ships in recyclable packaging.",
+  "brand": "Sonora",
+  "category": "Audio",
+  "price": 69.99,
+  "rating": 4.5,
+  "reviewCount": 656,
+  "inStock": true,
+  "tags": [
+   "wired",
+   "studio",
+   "over-ear"
+  ],
+  "releasedOn": "2025-06-06"
+ },
+ {
+  "id": "P0009",
+  "name": "Kestrel Studio Monitor Headphones",
+  "description": "Balanced sound with deep bass and clear vocals. Popular choice for gifting.",
+  "brand": "Kestrel",
+  "category": "Audio",
+  "price": 129.99,
+  "rating": 4.2,
+  "reviewCount": 2991,
+  "inStock": true,
+  "tags": [
+   "wired",
+   "studio",
+   "over-ear"
+  ],
+  "releasedOn": "2023-12-30"
+ },
+ {
+  "id": "P0010",
+  "name": "Auralis Portable Bluetooth Speaker Pro",
+  "description": "Balanced sound with deep bass and clear vocals. Comes in three colours.",
+  "brand": "Auralis",
+  "category": "Audio",
+  "price": 129.99,
+  "rating": 4.8,
+  "reviewCount": 587,
+  "inStock": true,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "waterproof"
+  ],
+  "releasedOn": "2023-06-25"
+ },
+ {
+  "id": "P0011",
+  "name": "Sonora Portable Bluetooth Speaker SE",
+  "description": "Balanced sound with deep bass and clear vocals. Ships in recyclable packaging.",
+  "brand": "Sonora",
+  "category": "Audio",
+  "price": 134.99,
+  "rating": 3.9,
+  "reviewCount": 2214,
+  "inStock": true,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "waterproof"
+  ],
+  "releasedOn": "2024-10-17"
+ },
+ {
+  "id": "P0012",
+  "name": "Kestrel Portable Bluetooth Speaker SE",
+  "description": "Balanced sound with deep bass and clear vocals. Rated highly for build quality.",
+  "brand": "Kestrel",
+  "category": "Audio",
+  "price": 59.99,
+  "rating": 4.6,
+  "reviewCount": 461,
+  "inStock": true,
+  "tags": [
+   "wireless",
+   "bluetooth",
+   "waterproof"
+  ],
+  "releasedOn": "2023-02-02"
+ },
+ {
+  "id": "P0013",
+  "name": "Auralis Soundbar with Subwoofer Lite",
+  "description": "Balanced sound with deep bass and clear vocals. Includes a two-year warranty.",
+  "brand": "Auralis",
+  "category": "Audio",
+  "price": 274.99,
+  "rating": 3.5,
+  "reviewCount": 2580,
+  "inStock": true,
+  "tags": [
+   "home theater",
+   "dolby atmos"
+  ],
+  "releasedOn": "2024-05-26"
+ },
+ {
+  "id": "P0014",
+  "name": "Sonora Soundbar with Subwoofer Max",
+  "description": "Balanced sound with deep bass and clear vocals. Comes in three colours.",
+  "brand": "Sonora",
+  "category": "Audio",
+  "price": 454.99,
+  "rating": 3.9,
+  "reviewCount": 2172,
+  "inStock": false,
+  "tags": [
+   "home theater",
+   "dolby atmos"
+  ],
+  "releasedOn": "2025-02-01"
+ },
+ {
+  "id": "P0015",
+  "name": "Kestrel Soundbar with Subwoofer SE",
+  "description": "Balanced sound with deep bass and clear vocals. Comes in three colours.",
+  "brand": "Kestrel",
+  "category": "Audio",
+  "price": 329.99,
+  "rating": 4.2,
+  "reviewCount": 3274,
+  "inStock": true,
+  "tags": [
+   "home theater",
+   "dolby atmos"
+  ],
+  "releasedOn": "2023-05-22"
+ },
+ {
+  "id": "P0016",
+  "name": "Nordvik Ultrabook 14 inch SE",
+  "description": "Fast performance for work and play, with an all-day battery. Includes a two-year warranty.",
+  "brand": "Nordvik",
+  "category": "Laptops",
+  "price": 1094.99,
+  "rating": 4.6,
+  "reviewCount": 1255,
+  "inStock": true,
+  "tags": [
+   "thin",
+   "lightweight",
+   "ssd"
+  ],
+  "releasedOn": "2025-03-22"
+ },
+ {
+  "id": "P0017",
+  "name": "Vantage Ultrabook 14 inch Max",
+  "description": "Fast performance for work and play, with an all-day battery. Popular choice for gifting.",
+  "brand": "Vantage",
+  "category": "Laptops",
+  "price": 1174.99,
+  "rating": 3.8,
+  "reviewCount": 3837,
+  "inStock": true,
+  "tags": [
+   "thin",
+   "lightweight",
+   "ssd"
+  ],
+  "releasedOn": "2025-09-21"
+ },
+ {
+  "id": "P0018",
+  "name": "Orbita Ultrabook 14 inch SE",
+  "description": "Fast performance for work and play, with an all-day battery. Includes a two-year warranty.",
+  "brand": "Orbita",
+  "category": "Laptops",
+  "price": 1389.99,
+  "rating": 4.3,
+  "reviewCount": 941,
+  "inStock": true,
+  "tags": [
+   "thin",
+   "lightweight",
+   "ssd"
+  ],
+  "releasedOn": "2024-07-03"
+ },
+ {
+  "id": "P0019",
+  "name": "Nordvik Gaming Laptop 16 inch RTX Lite",
+  "description": "Fast performance for work and play, with an all-day battery. Rated highly for build quality.",
+  "brand": "Nordvik",
+  "category": "Laptops",
+  "price": 2149.99,
+  "rating": 3.3,
+  "reviewCount": 3564,
+  "inStock": true,
+  "tags": [
+   "gaming",
+   "rtx",
+   "high refresh"
+  ],
+  "releasedOn": "2023-01-04"
+ },
+ {
+  "id": "P0020",
+  "name": "Vantage Gaming Laptop 16 inch RTX Lite",
+  "description": "Fast performance for work and play, with an all-day battery. Ships in recyclable packaging.",
+  "brand": "Vantage",
+  "category": "Laptops",
+  "price": 2454.99,
+  "rating": 4.0,
+  "reviewCount": 874,
+  "inStock": true,
+  "tags": [
+   "gaming",
+   "rtx",
+   "high refresh"
+  ],
+  "releasedOn": "2023-11-02"
+ },
+ {
+  "id": "P0021",
+  "name": "Orbita Gaming Laptop 16 inch RTX SE",
+  "description": "Fast performance for work and play, with an all-day battery. Ships in recyclable packaging.",
+  "brand": "Orbita",
+  "category": "Laptops",
+  "price": 1909.99,
+  "rating": 3.8,
+  "reviewCount": 1326,
+  "inStock": true,
+  "tags": [
+   "gaming",
+   "rtx",
+   "high refresh"
+  ],
+  "releasedOn": "2025-03-08"
+ },
+ {
+  "id": "P0022",
+  "name": "Nordvik 2-in-1 Convertible Laptop SE",
+  "description": "Fast performance for work and play, with an all-day battery. Energy efficient design.",
+  "brand": "Nordvik",
+  "category": "Laptops",
+  "price": 1144.99,
+  "rating": 3.7,
+  "reviewCount": 162,
+  "inStock": false,
+  "tags": [
+   "touchscreen",
+   "stylus",
+   "convertible"
+  ],
+  "releasedOn": "2024-01-07"
+ },
+ {
+  "id": "P0023",
+  "name": "Vantage 2-in-1 Convertible Laptop Lite",
+  "description": "Fast performance for work and play, with an all-day battery. Ships in recyclable packaging.",
+  "brand": "Vantage",
+  "category": "Laptops",
+  "price": 704.99,
+  "rating": 4.7,
+  "reviewCount": 648,
+  "inStock": false,
+  "tags": [
+   "touchscreen",
+   "stylus",
+   "convertible"
+  ],
+  "releasedOn": "2024-05-12"
+ },
+ {
+  "id": "P0024",
+  "name": "Orbita 2-in-1 Convertible Laptop",
+  "description": "Fast performance for work and play, with an all-day battery. Energy efficient design.",
+  "brand": "Orbita",
+  "category": "Laptops",
+  "price": 1184.99,
+  "rating": 4.5,
+  "reviewCount": 1054,
+  "inStock": true,
+  "tags": [
+   "touchscreen",
+   "stylus",
+   "convertible"
+  ],
+  "releasedOn": "2025-08-27"
+ },
+ {
+  "id": "P0025",
+  "name": "Nordvik Developer Workstation Laptop SE",
+  "description": "Fast performance for work and play, with an all-day battery. Energy efficient design.",
+  "brand": "Nordvik",
+  "category": "Laptops",
+  "price": 1564.99,
+  "rating": 4.7,
+  "reviewCount": 3469,
+  "inStock": true,
+  "tags": [
+   "32gb ram",
+   "linux",
+   "workstation"
+  ],
+  "releasedOn": "2025-08-09"
+ },
+ {
+  "id": "P0026",
+  "name": "Vantage Developer Workstation Laptop SE",
+  "description": "Fast performance for work and play, with an all-day battery. Comes in three colours.",
+  "brand": "Vantage",
+  "category": "Laptops",
+  "price": 2504.99,
+  "rating": 3.5,
+  "reviewCount": 2556,
+  "inStock": true,
+  "tags": [
+   "32gb ram",
+   "linux",
+   "workstation"
+  ],
+  "releasedOn": "2024-11-18"
+ },
+ {
+  "id": "P0027",
+  "name": "Orbita Developer Workstation Laptop Lite",
+  "description": "Fast performance for work and play, with an all-day battery. Energy efficient design.",
+  "brand": "Orbita",
+  "category": "Laptops",
+  "price": 1999.99,
+  "rating": 3.9,
+  "reviewCount": 2033,
+  "inStock": true,
+  "tags": [
+   "32gb ram",
+   "linux",
+   "workstation"
+  ],
+  "releasedOn": "2023-12-13"
+ },
+ {
+  "id": "P0028",
+  "name": "Lumio 5G Smartphone 128GB",
+  "description": "A bright display, all-day battery and a camera that handles low light. Ships in recyclable packaging.",
+  "brand": "Lumio",
+  "category": "Smartphones",
+  "price": 514.99,
+  "rating": 4.2,
+  "reviewCount": 61,
+  "inStock": false,
+  "tags": [
+   "5g",
+   "dual sim",
+   "android"
+  ],
+  "releasedOn": "2024-10-08"
+ },
+ {
+  "id": "P0029",
+  "name": "Orbita 5G Smartphone 128GB",
+  "description": "A bright display, all-day battery and a camera that handles low light. Includes a two-year warranty.",
+  "brand": "Orbita",
+  "category": "Smartphones",
+  "price": 349.99,
+  "rating": 4.6,
+  "reviewCount": 583,
+  "inStock": true,
+  "tags": [
+   "5g",
+   "dual sim",
+   "android"
+  ],
+  "releasedOn": "2023-10-13"
+ },
+ {
+  "id": "P0030",
+  "name": "Brightline 5G Smartphone 128GB Max",
+  "description": "A bright display, all-day battery and a camera that handles low light. Ships in recyclable packaging.",
+  "brand": "Brightline",
+  "category": "Smartphones",
+  "price": 344.99,
+  "rating": 4.4,
+  "reviewCount": 3875,
+  "inStock": true,
+  "tags": [
+   "5g",
+   "dual sim",
+   "android"
+  ],
+  "releasedOn": "2024-04-29"
+ },
+ {
+  "id": "P0031",
+  "name": "Lumio Flagship Smartphone Pro Camera Max",
+  "description": "A bright display, all-day battery and a camera that handles low light. Includes a two-year warranty.",
+  "brand": "Lumio",
+  "category": "Smartphones",
+  "price": 814.99,
+  "rating": 4.3,
+  "reviewCount": 2905,
+  "inStock": true,
+  "tags": [
+   "5g",
+   "triple camera",
+   "oled"
+  ],
+  "releasedOn": "2024-04-23"
+ },
+ {
+  "id": "P0032",
+  "name": "Orbita Flagship Smartphone Pro Camera",
+  "description": "A bright display, all-day battery and a camera that handles low light. Comes in three colours.",
+  "brand": "Orbita",
+  "category": "Smartphones",
+  "price": 1104.99,
+  "rating": 3.3,
+  "reviewCount": 3301,
+  "inStock": true,
+  "tags": [
+   "5g",
+   "triple camera",
+   "oled"
+  ],
+  "releasedOn": "2025-03-30"
+ },
+ {
+  "id": "P0033",
+  "name": "Brightline Flagship Smartphone Pro Camera",
+  "description": "A bright display, all-day battery and a camera that handles low light. Ships in recyclable packaging.",
+  "brand": "Brightline",
+  "category": "Smartphones",
+  "price": 849.99,
+  "rating": 4.1,
+  "reviewCount": 1151,
+  "inStock": true,
+  "tags": [
+   "5g",
+   "triple camera",
+   "oled"
+  ],
+  "releasedOn": "2023-10-13"
+ },
+ {
+  "id": "P0034",
+  "name": "Lumio Compact Smartphone Max",
+  "description": "A bright display, all-day battery and a camera that handles low light. Includes a two-year warranty.",
+  "brand": "Lumio",
+  "category": "Smartphones",
+  "price": 274.99,
+  "rating": 3.9,
+  "reviewCount": 805,
+  "inStock": false,
+  "tags": [
+   "compact",
+   "android"
+  ],
+  "releasedOn": "2024-07-07"
+ },
+ {
+  "id": "P0035",
+  "name": "Orbita Compact Smartphone",
+  "description": "A bright display, all-day battery and a camera that handles low light. Ships in recyclable packaging.",
+  "brand": "Orbita",
+  "category": "Smartphones",
+  "price": 489.99,
+  "rating": 3.4,
+  "reviewCount": 3981,
+  "inStock": true,
+  "tags": [
+   "compact",
+   "android"
+  ],
+  "releasedOn": "2025-06-04"
+ },
+ {
+  "id": "P0036",
+  "name": "Brightline Compact Smartphone Max",
+  "description": "A bright display, all-day battery and a camera that handles low light. Ships in recyclable packaging.",
+  "brand": "Brightline",
+  "category": "Smartphones",
+  "price": 469.99,
+  "rating": 3.8,
+  "reviewCount": 3201,
+  "inStock": true,
+  "tags": [
+   "compact",
+   "android"
+  ],
+  "releasedOn": "2025-03-13"
+ },
+ {
+  "id": "P0037",
+  "name": "Lumio Rugged Smartphone Max",
+  "description": "A bright display, all-day battery and a camera that handles low light. Comes in three colours.",
+  "brand": "Lumio",
+  "category": "Smartphones",
+  "price": 384.99,
+  "rating": 4.8,
+  "reviewCount": 3989,
+  "inStock": true,
+  "tags": [
+   "rugged",
+   "waterproof",
+   "long battery"
+  ],
+  "releasedOn": "2023-10-31"
+ },
+ {
+  "id": "P0038",
+  "name": "Orbita Rugged Smartphone Pro",
+  "description": "A bright display, all-day battery and a camera that handles low light. Energy efficient design.",
+  "brand": "Orbita",
+  "category": "Smartphones",
+  "price": 589.99,
+  "rating": 4.4,
+  "reviewCount": 502,
+  "inStock": true,
+  "tags": [
+   "rugged",
+   "waterproof",
+   "long battery"
+  ],
+  "releasedOn": "2023-02-28"
+ },
+ {
+  "id": "P0039",
+  "name": "Brightline Rugged Smartphone",
+  "description": "A bright display, all-day battery and a camera that handles low light. Energy efficient design.",
+  "brand": "Brightline",
+  "category": "Smartphones",
+  "price": 474.99,
+  "rating": 4.8,
+  "reviewCount": 1292,
+  "inStock": false,
+  "tags": [
+   "rugged",
+   "waterproof",
+   "long battery"
+  ],
+  "releasedOn": "2024-06-04"
+ },
+ {
+  "id": "P0040",
+  "name": "Vantage 55 inch 4K UHD Smart TV",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Includes a two-year warranty.",
+  "brand": "Vantage",
+  "category": "Televisions",
+  "price": 819.99,
+  "rating": 4.2,
+  "reviewCount": 1929,
+  "inStock": true,
+  "tags": [
+   "4k",
+   "hdr",
+   "smart tv"
+  ],
+  "releasedOn": "2025-08-22"
+ },
+ {
+  "id": "P0041",
+  "name": "Halcyon 55 inch 4K UHD Smart TV SE",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Energy efficient design.",
+  "brand": "Halcyon",
+  "category": "Televisions",
+  "price": 504.99,
+  "rating": 3.2,
+  "reviewCount": 674,
+  "inStock": true,
+  "tags": [
+   "4k",
+   "hdr",
+   "smart tv"
+  ],
+  "releasedOn": "2024-08-20"
+ },
+ {
+  "id": "P0042",
+  "name": "Brightline 55 inch 4K UHD Smart TV SE",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Rated highly for build quality.",
+  "brand": "Brightline",
+  "category": "Televisions",
+  "price": 649.99,
+  "rating": 3.5,
+  "reviewCount": 2576,
+  "inStock": true,
+  "tags": [
+   "4k",
+   "hdr",
+   "smart tv"
+  ],
+  "releasedOn": "2024-02-10"
+ },
+ {
+  "id": "P0043",
+  "name": "Vantage 65 inch OLED TV Pro",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Rated highly for build quality.",
+  "brand": "Vantage",
+  "category": "Televisions",
+  "price": 2069.99,
+  "rating": 3.9,
+  "reviewCount": 597,
+  "inStock": false,
+  "tags": [
+   "oled",
+   "4k",
+   "dolby vision"
+  ],
+  "releasedOn": "2024-09-28"
+ },
+ {
+  "id": "P0044",
+  "name": "Halcyon 65 inch OLED TV SE",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Includes a two-year warranty.",
+  "brand": "Halcyon",
+  "category": "Televisions",
+  "price": 2494.99,
+  "rating": 4.1,
+  "reviewCount": 4147,
+  "inStock": true,
+  "tags": [
+   "oled",
+   "4k",
+   "dolby vision"
+  ],
+  "releasedOn": "2025-08-13"
+ },
+ {
+  "id": "P0045",
+  "name": "Brightline 65 inch OLED TV Lite",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Ships in recyclable packaging.",
+  "brand": "Brightline",
+  "category": "Televisions",
+  "price": 2344.99,
+  "rating": 3.8,
+  "reviewCount": 1295,
+  "inStock": true,
+  "tags": [
+   "oled",
+   "4k",
+   "dolby vision"
+  ],
+  "releasedOn": "2024-07-10"
+ },
+ {
+  "id": "P0046",
+  "name": "Vantage 32 inch HD Smart TV Lite",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Comes in three colours.",
+  "brand": "Vantage",
+  "category": "Televisions",
+  "price": 239.99,
+  "rating": 4.1,
+  "reviewCount": 2455,
+  "inStock": true,
+  "tags": [
+   "hd",
+   "smart tv",
+   "compact"
+  ],
+  "releasedOn": "2023-04-17"
+ },
+ {
+  "id": "P0047",
+  "name": "Halcyon 32 inch HD Smart TV Pro",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Includes a two-year warranty.",
+  "brand": "Halcyon",
+  "category": "Televisions",
+  "price": 189.99,
+  "rating": 4.4,
+  "reviewCount": 1276,
+  "inStock": true,
+  "tags": [
+   "hd",
+   "smart tv",
+   "compact"
+  ],
+  "releasedOn": "2024-09-11"
+ },
+ {
+  "id": "P0048",
+  "name": "Brightline 32 inch HD Smart TV Pro",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Ships in recyclable packaging.",
+  "brand": "Brightline",
+  "category": "Televisions",
+  "price": 254.99,
+  "rating": 4.3,
+  "reviewCount": 2165,
+  "inStock": true,
+  "tags": [
+   "hd",
+   "smart tv",
+   "compact"
+  ],
+  "releasedOn": "2023-09-15"
+ },
+ {
+  "id": "P0049",
+  "name": "Vantage 75 inch QLED TV",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Popular choice for gifting.",
+  "brand": "Vantage",
+  "category": "Televisions",
+  "price": 1089.99,
+  "rating": 4.6,
+  "reviewCount": 364,
+  "inStock": false,
+  "tags": [
+   "qled",
+   "4k",
+   "120hz"
+  ],
+  "releasedOn": "2025-02-28"
+ },
+ {
+  "id": "P0050",
+  "name": "Halcyon 75 inch QLED TV Pro",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Rated highly for build quality.",
+  "brand": "Halcyon",
+  "category": "Televisions",
+  "price": 1634.99,
+  "rating": 3.4,
+  "reviewCount": 3622,
+  "inStock": true,
+  "tags": [
+   "qled",
+   "4k",
+   "120hz"
+  ],
+  "releasedOn": "2024-03-13"
+ },
+ {
+  "id": "P0051",
+  "name": "Brightline 75 inch QLED TV SE",
+  "description": "Vivid colour and sharp detail with built-in streaming apps. Includes a two-year warranty.",
+  "brand": "Brightline",
+  "category": "Televisions",
+  "price": 1009.99,
+  "rating": 4.8,
+  "reviewCount": 1224,
+  "inStock": true,
+  "tags": [
+   "qled",
+   "4k",
+   "120hz"
+  ],
+  "releasedOn": "2025-05-04"
+ },
+ {
+  "id": "P0052",
+  "name": "Pinecrest Espresso Machine with Milk Frother Lite",
+  "description": "Built for everyday cooking with easy cleaning. Ships in recyclable packaging.",
+  "brand": "Pinecrest",
+  "category": "Kitchen",
+  "price": 469.99,
+  "rating": 3.9,
+  "reviewCount": 345,
+  "inStock": true,
+  "tags": [
+   "coffee",
+   "espresso",
+   "barista"
+  ],
+  "releasedOn": "2025-07-09"
+ },
+ {
+  "id": "P0053",
+  "name": "Terrace Espresso Machine with Milk Frother",
+  "description": "Built for everyday cooking with easy cleaning. Ships in recyclable packaging.",
+  "brand": "Terrace",
+  "category": "Kitchen",
+  "price": 644.99,
+  "rating": 4.3,
+  "reviewCount": 845,
+  "inStock": true,
+  "tags": [
+   "coffee",
+   "espresso",
+   "barista"
+  ],
+  "releasedOn": "2024-07-27"
+ },
+ {
+  "id": "P0054",
+  "name": "Halcyon Espresso Machine with Milk Frother Max",
+  "description": "Built for everyday cooking with easy cleaning. Comes in three colours.",
+  "brand": "Halcyon",
+  "category": "Kitchen",
+  "price": 684.99,
+  "rating": 3.4,
+  "reviewCount": 1942,
+  "inStock": true,
+  "tags": [
+   "coffee",
+   "espresso",
+   "barista"
+  ],
+  "releasedOn": "2025-09-26"
+ },
+ {
+  "id": "P0055",
+  "name": "Pinecrest Air Fryer 5 Litre Pro",
+  "description": "Built for everyday cooking with easy cleaning. Includes a two-year warranty.",
+  "brand": "Pinecrest",
+  "category": "Kitchen",
+  "price": 174.99,
+  "rating": 3.4,
+  "reviewCount": 2724,
+  "inStock": true,
+  "tags": [
+   "air fryer",
+   "oil free",
+   "digital"
+  ],
+  "releasedOn": "2024-02-26"
+ },
+ {
+  "id": "P0056",
+  "name": "Terrace Air Fryer 5 Litre Pro",
+  "description": "Built for everyday cooking with easy cleaning. Comes in three colours.",
+  "brand": "Terrace",
+  "category": "Kitchen",
+  "price": 94.99,
+  "rating": 3.3,
+  "reviewCount": 320,
+  "inStock": true,
+  "tags": [
+   "air fryer",
+   "oil free",
+   "digital"
+  ],
+  "releasedOn": "2023-08-16"
+ },
+ {
+  "id": "P0057",
+  "name": "Halcyon Air Fryer 5 Litre Pro",
+  "description": "Built for everyday cooking with easy cleaning. Popular choice for gifting.",
+  "brand": "Halcyon",
+  "category": "Kitchen",
+  "price": 164.99,
+  "rating": 3.7,
+  "reviewCount": 1867,
+  "inStock": true,
+  "tags": [
+   "air fryer",
+   "oil free",
+   "digital"
+  ],
+  "releasedOn": "2024-11-06"
+ },
+ {
+  "id": "P0058",
+  "name": "Pinecrest High Speed Blender Pro",
+  "description": "Built for everyday cooking with easy cleaning. Rated highly for build quality.",
+  "brand": "Pinecrest",
+  "category": "Kitchen",
+  "price": 149.99,
+  "rating": 4.7,
+  "reviewCount": 2289,
+  "inStock": true,
+  "tags": [
+   "blender",
+   "smoothie"
+  ],
+  "releasedOn": "2024-06-05"
+ },
+ {
+  "id": "P0059",
+  "name": "Terrace High Speed Blender Max",
+  "description": "Built for everyday cooking with easy cleaning. Energy efficient design.",
+  "brand": "Terrace",
+  "category": "Kitchen",
+  "price": 219.99,
+  "rating": 3.7,
+  "reviewCount": 229,
+  "inStock": false,
+  "tags": [
+   "blender",
+   "smoothie"
+  ],
+  "releasedOn": "2025-09-20"
+ },
+ {
+  "id": "P0060",
+  "name": "Halcyon High Speed Blender Lite",
+  "description": "Built for everyday cooking with easy cleaning. Rated highly for build quality.",
+  "brand": "Halcyon",
+  "category": "Kitchen",
+  "price": 94.99,
+  "rating": 3.2,
+  "reviewCount": 3562,
+  "inStock": true,
+  "tags": [
+   "blender",
+   "smoothie"
+  ],
+  "releasedOn": "2025-03-16"
+ },
+ {
+  "id": "P0061",
+  "name": "Pinecrest Stainless Steel Cookware Set Lite",
+  "description": "Built for everyday cooking with easy cleaning. Energy efficient design.",
+  "brand": "Pinecrest",
+  "category": "Kitchen",
+  "price": 199.99,
+  "rating": 3.3,
+  "reviewCount": 1560,
+  "inStock": true,
+  "tags": [
+   "cookware",
+   "induction",
+   "dishwasher safe"
+  ],
+  "releasedOn": "2024-12-26"
+ },
+ {
+  "id": "P0062",
+  "name": "Terrace Stainless Steel Cookware Set Max",
+  "description": "Built for everyday cooking with easy cleaning. Energy efficient design.",
+  "brand": "Terrace",
+  "category": "Kitchen",
+  "price": 89.99,
+  "rating": 4.3,
+  "reviewCount": 1617,
+  "inStock": true,
+  "tags": [
+   "cookware",
+   "induction",
+   "dishwasher safe"
+  ],
+  "releasedOn": "2023-03-13"
+ },
+ {
+  "id": "P0063",
+  "name": "Halcyon Stainless Steel Cookware Set Lite",
+  "description": "Built for everyday cooking with easy cleaning. Comes in three colours.",
+  "brand": "Halcyon",
+  "category": "Kitchen",
+  "price": 249.99,
+  "rating": 4.6,
+  "reviewCount": 2463,
+  "inStock": true,
+  "tags": [
+   "cookware",
+   "induction",
+   "dishwasher safe"
+  ],
+  "releasedOn": "2024-11-13"
+ },
+ {
+  "id": "P0064",
+  "name": "Kestrel Adjustable Dumbbell Set Max",
+  "description": "Designed to keep you consistent with your training. Comes in three colours.",
+  "brand": "Kestrel",
+  "category": "Fitness",
+  "price": 194.99,
+  "rating": 3.6,
+  "reviewCount": 1045,
+  "inStock": true,
+  "tags": [
+   "strength",
+   "home gym"
+  ],
+  "releasedOn": "2024-11-11"
+ },
+ {
+  "id": "P0065",
+  "name": "Stride Adjustable Dumbbell Set Max",
+  "description": "Designed to keep you consistent with your training. Ships in recyclable packaging.",
+  "brand": "Stride",
+  "category": "Fitness",
+  "price": 299.99,
+  "rating": 4.2,
+  "reviewCount": 2468,
+  "inStock": true,
+  "tags": [
+   "strength",
+   "home gym"
+  ],
+  "releasedOn": "2025-05-03"
+ },
+ {
+  "id": "P0066",
+  "name": "Terrace Adjustable Dumbbell Set",
+  "description": "Designed to keep you consistent with your training. Ships in recyclable packaging.",
+  "brand": "Terrace",
+  "category": "Fitness",
+  "price": 189.99,
+  "rating": 3.9,
+  "reviewCount": 2642,
+  "inStock": true,
+  "tags": [
+   "strength",
+   "home gym"
+  ],
+  "releasedOn": "2024-03-28"
+ },
+ {
+  "id": "P0067",
+  "name": "Kestrel Fitness Tracker Watch Pro",
+  "description": "Designed to keep you consistent with your training. Comes in three colours.",
+  "brand": "Kestrel",
+  "category": "Fitness",
+  "price": 144.99,
+  "rating": 3.4,
+  "reviewCount": 697,
+  "inStock": true,
+  "tags": [
+   "heart rate",
+   "gps",
+   "sleep tracking"
+  ],
+  "releasedOn": "2024-11-10"
+ },
+ {
+  "id": "P0068",
+  "name": "Stride Fitness Tracker Watch SE",
+  "description": "Designed to keep you consistent with your training. Ships in recyclable packaging.",
+  "brand": "Stride",
+  "category": "Fitness",
+  "price": 109.99,
+  "rating": 4.3,
+  "reviewCount": 1843,
+  "inStock": true,
+  "tags": [
+   "heart rate",
+   "gps",
+   "sleep tracking"
+  ],
+  "releasedOn": "2023-05-31"
+ },
+ {
+  "id": "P0069",
+  "name": "Terrace Fitness Tracker Watch",
+  "description": "Designed to keep you consistent with your training. Popular choice for gifting.",
+  "brand": "Terrace",
+  "category": "Fitness",
+  "price": 49.99,
+  "rating": 4.2,
+  "reviewCount": 599,
+  "inStock": true,
+  "tags": [
+   "heart rate",
+   "gps",
+   "sleep tracking"
+  ],
+  "releasedOn": "2025-06-26"
+ },
+ {
+  "id": "P0070",
+  "name": "Kestrel Yoga Mat Non Slip SE",
+  "description": "Designed to keep you consistent with your training. Comes in three colours.",
+  "brand": "Kestrel",
+  "category": "Fitness",
+  "price": 24.99,
+  "rating": 3.8,
+  "reviewCount": 3276,
+  "inStock": true,
+  "tags": [
+   "yoga",
+   "pilates",
+   "non slip"
+  ],
+  "releasedOn": "2024-11-02"
+ },
+ {
+  "id": "P0071",
+  "name": "Stride Yoga Mat Non Slip",
+  "description": "Designed to keep you consistent with your training. Includes a two-year warranty.",
+  "brand": "Stride",
+  "category": "Fitness",
+  "price": 69.99,
+  "rating": 4.5,
+  "reviewCount": 1795,
+  "inStock": true,
+  "tags": [
+   "yoga",
+   "pilates",
+   "non slip"
+  ],
+  "releasedOn": "2025-09-07"
+ },
+ {
+  "id": "P0072",
+  "name": "Terrace Yoga Mat Non Slip SE",
+  "description": "Designed to keep you consistent with your training. Energy efficient design.",
+  "brand": "Terrace",
+  "category": "Fitness",
+  "price": 44.99,
+  "rating": 3.5,
+  "reviewCount": 997,
+  "inStock": true,
+  "tags": [
+   "yoga",
+   "pilates",
+   "non slip"
+  ],
+  "releasedOn": "2025-03-31"
+ },
+ {
+  "id": "P0073",
+  "name": "Kestrel Foldable Treadmill Max",
+  "description": "Designed to keep you consistent with your training. Energy efficient design.",
+  "brand": "Kestrel",
+  "category": "Fitness",
+  "price": 934.99,
+  "rating": 4.2,
+  "reviewCount": 3628,
+  "inStock": true,
+  "tags": [
+   "cardio",
+   "foldable",
+   "home gym"
+  ],
+  "releasedOn": "2025-01-06"
+ },
+ {
+  "id": "P0074",
+  "name": "Stride Foldable Treadmill SE",
+  "description": "Designed to keep you consistent with your training. Energy efficient design.",
+  "brand": "Stride",
+  "category": "Fitness",
+  "price": 739.99,
+  "rating": 3.9,
+  "reviewCount": 1306,
+  "inStock": true,
+  "tags": [
+   "cardio",
+   "foldable",
+   "home gym"
+  ],
+  "releasedOn": "2024-05-01"
+ },
+ {
+  "id": "P0075",
+  "name": "Terrace Foldable Treadmill Max",
+  "description": "Designed to keep you consistent with your training. Ships in recyclable packaging.",
+  "brand": "Terrace",
+  "category": "Fitness",
+  "price": 604.99,
+  "rating": 4.6,
+  "reviewCount": 2274,
+  "inStock": true,
+  "tags": [
+   "cardio",
+   "foldable",
+   "home gym"
+  ],
+  "releasedOn": "2024-06-17"
+ },
+ {
+  "id": "P0076",
+  "name": "Stride Lightweight Running Shoes Max",
+  "description": "Comfortable fit with a responsive, durable sole. Rated highly for build quality.",
+  "brand": "Stride",
+  "category": "Footwear",
+  "price": 129.99,
+  "rating": 3.9,
+  "reviewCount": 2343,
+  "inStock": true,
+  "tags": [
+   "running",
+   "cushioned",
+   "breathable"
+  ],
+  "releasedOn": "2023-12-10"
+ },
+ {
+  "id": "P0077",
+  "name": "Kestrel Lightweight Running Shoes Lite",
+  "description": "Comfortable fit with a responsive, durable sole. Includes a two-year warranty.",
+  "brand": "Kestrel",
+  "category": "Footwear",
+  "price": 164.99,
+  "rating": 3.3,
+  "reviewCount": 1897,
+  "inStock": true,
+  "tags": [
+   "running",
+   "cushioned",
+   "breathable"
+  ],
+  "releasedOn": "2023-06-06"
+ },
+ {
+  "id": "P0078",
+  "name": "Nordvik Lightweight Running Shoes Pro",
+  "description": "Comfortable fit with a responsive, durable sole. Popular choice for gifting.",
+  "brand": "Nordvik",
+  "category": "Footwear",
+  "price": 54.99,
+  "rating": 3.7,
+  "reviewCount": 3819,
+  "inStock": true,
+  "tags": [
+   "running",
+   "cushioned",
+   "breathable"
+  ],
+  "releasedOn": "2023-07-31"
+ },
+ {
+  "id": "P0079",
+  "name": "Stride Trail Running Shoes Max",
+  "description": "Comfortable fit with a responsive, durable sole. Energy efficient design.",
+  "brand": "Stride",
+  "category": "Footwear",
+  "price": 114.99,
+  "rating": 4.8,
+  "reviewCount": 163,
+  "inStock": true,
+  "tags": [
+   "trail",
+   "grip",
+   "waterproof"
+  ],
+  "releasedOn": "2025-02-22"
+ },
+ {
+  "id": "P0080",
+  "name": "Kestrel Trail Running Shoes SE",
+  "description": "Comfortable fit with a responsive, durable sole. Includes a two-year warranty.",
+  "brand": "Kestrel",
+  "category": "Footwear",
+  "price": 114.99,
+  "rating": 4.8,
+  "reviewCount": 2449,
+  "inStock": true,
+  "tags": [
+   "trail",
+   "grip",
+   "waterproof"
+  ],
+  "releasedOn": "2025-05-23"
+ },
+ {
+  "id": "P0081",
+  "name": "Nordvik Trail Running Shoes Max",
+  "description": "Comfortable fit with a responsive, durable sole. Comes in three colours.",
+  "brand": "Nordvik",
+  "category": "Footwear",
+  "price": 134.99,
+  "rating": 4.1,
+  "reviewCount": 1809,
+  "inStock": true,
+  "tags": [
+   "trail",
+   "grip",
+   "waterproof"
+  ],
+  "releasedOn": "2023-10-07"
+ },
+ {
+  "id": "P0082",
+  "name": "Stride Everyday Sneakers Max",
+  "description": "Comfortable fit with a responsive, durable sole. Popular choice for gifting.",
+  "brand": "Stride",
+  "category": "Footwear",
+  "price": 84.99,
+  "rating": 3.7,
+  "reviewCount": 3315,
+  "inStock": true,
+  "tags": [
+   "casual",
+   "sneakers"
+  ],
+  "releasedOn": "2025-05-10"
+ },
+ {
+  "id": "P0083",
+  "name": "Kestrel Everyday Sneakers Max",
+  "description": "Comfortable fit with a responsive, durable sole. Energy efficient design.",
+  "brand": "Kestrel",
+  "category": "Footwear",
+  "price": 119.99,
+  "rating": 4.1,
+  "reviewCount": 3230,
+  "inStock": true,
+  "tags": [
+   "casual",
+   "sneakers"
+  ],
+  "releasedOn": "2024-11-09"
+ },
+ {
+  "id": "P0084",
+  "name": "Nordvik Everyday Sneakers",
+  "description": "Comfortable fit with a responsive, durable sole. Popular choice for gifting.",
+  "brand": "Nordvik",
+  "category": "Footwear",
+  "price": 44.99,
+  "rating": 3.3,
+  "reviewCount": 3785,
+  "inStock": true,
+  "tags": [
+   "casual",
+   "sneakers"
+  ],
+  "releasedOn": "2023-09-24"
+ },
+ {
+  "id": "P0085",
+  "name": "Stride Hiking Boots Waterproof Max",
+  "description": "Comfortable fit with a responsive, durable sole. Popular choice for gifting.",
+  "brand": "Stride",
+  "category": "Footwear",
+  "price": 139.99,
+  "rating": 3.7,
+  "reviewCount": 3108,
+  "inStock": true,
+  "tags": [
+   "hiking",
+   "waterproof",
+   "ankle support"
+  ],
+  "releasedOn": "2025-09-01"
+ },
+ {
+  "id": "P0086",
+  "name": "Kestrel Hiking Boots Waterproof Max",
+  "description": "Comfortable fit with a responsive, durable sole. Includes a two-year warranty.",
+  "brand": "Kestrel",
+  "category": "Footwear",
+  "price": 129.99,
+  "rating": 3.9,
+  "reviewCount": 429,
+  "inStock": true,
+  "tags": [
+   "hiking",
+   "waterproof",
+   "ankle support"
+  ],
+  "releasedOn": "2023-12-25"
+ },
+ {
+  "id": "P0087",
+  "name": "Nordvik Hiking Boots Waterproof Pro",
+  "description": "Comfortable fit with a responsive, durable sole. Comes in three colours.",
+  "brand": "Nordvik",
+  "category": "Footwear",
+  "price": 194.99,
+  "rating": 3.2,
+  "reviewCount": 257,
+  "inStock": true,
+  "tags": [
+   "hiking",
+   "waterproof",
+   "ankle support"
+  ],
+  "releasedOn": "2023-07-24"
+ },
+ {
+  "id": "P0088",
+  "name": "Terrace Ergonomic Office Chair",
+  "description": "Made for long days at the desk without the aches. Ships in recyclable packaging.",
+  "brand": "Terrace",
+  "category": "Home Office",
+  "price": 419.99,
+  "rating": 3.3,
+  "reviewCount": 940,
+  "inStock": true,
+  "tags": [
+   "ergonomic",
+   "lumbar support",
+   "mesh"
+  ],
+  "releasedOn": "2023-08-12"
+ },
+ {
+  "id": "P0089",
+  "name": "Nordvik Ergonomic Office Chair Max",
+  "description": "Made for long days at the desk without the aches. Rated highly for build quality.",
+  "brand": "Nordvik",
+  "category": "Home Office",
+  "price": 459.99,
+  "rating": 3.4,
+  "reviewCount": 941,
+  "inStock": true,
+  "tags": [
+   "ergonomic",
+   "lumbar support",
+   "mesh"
+  ],
+  "releasedOn": "2023-06-17"
+ },
+ {
+  "id": "P0090",
+  "name": "Pinecrest Ergonomic Office Chair Lite",
+  "description": "Made for long days at the desk without the aches. Includes a two-year warranty.",
+  "brand": "Pinecrest",
+  "category": "Home Office",
+  "price": 179.99,
+  "rating": 4.8,
+  "reviewCount": 3077,
+  "inStock": true,
+  "tags": [
+   "ergonomic",
+   "lumbar support",
+   "mesh"
+  ],
+  "releasedOn": "2025-01-02"
+ },
+ {
+  "id": "P0091",
+  "name": "Terrace Electric Standing Desk Pro",
+  "description": "Made for long days at the desk without the aches. Comes in three colours.",
+  "brand": "Terrace",
+  "category": "Home Office",
+  "price": 299.99,
+  "rating": 4.6,
+  "reviewCount": 1992,
+  "inStock": false,
+  "tags": [
+   "standing desk",
+   "height adjustable"
+  ],
+  "releasedOn": "2025-03-02"
+ },
+ {
+  "id": "P0092",
+  "name": "Nordvik Electric Standing Desk Lite",
+  "description": "Made for long days at the desk without the aches. Energy efficient design.",
+  "brand": "Nordvik",
+  "category": "Home Office",
+  "price": 799.99,
+  "rating": 4.5,
+  "reviewCount": 339,
+  "inStock": true,
+  "tags": [
+   "standing desk",
+   "height adjustable"
+  ],
+  "releasedOn": "2024-03-14"
+ },
+ {
+  "id": "P0093",
+  "name": "Pinecrest Electric Standing Desk Lite",
+  "description": "Made for long days at the desk without the aches. Comes in three colours.",
+  "brand": "Pinecrest",
+  "category": "Home Office",
+  "price": 294.99,
+  "rating": 3.7,
+  "reviewCount": 3444,
+  "inStock": true,
+  "tags": [
+   "standing desk",
+   "height adjustable"
+  ],
+  "releasedOn": "2023-04-19"
+ },
+ {
+  "id": "P0094",
+  "name": "Terrace 27 inch 4K Monitor Max",
+  "description": "Made for long days at the desk without the aches. Comes in three colours.",
+  "brand": "Terrace",
+  "category": "Home Office",
+  "price": 679.99,
+  "rating": 4.7,
+  "reviewCount": 3769,
+  "inStock": true,
+  "tags": [
+   "4k",
+   "usb-c",
+   "ips"
+  ],
+  "releasedOn": "2024-03-21"
+ },
+ {
+  "id": "P0095",
+  "name": "Nordvik 27 inch 4K Monitor Pro",
+  "description": "Made for long days at the desk without the aches. Comes in three colours.",
+  "brand": "Nordvik",
+  "category": "Home Office",
+  "price": 579.99,
+  "rating": 3.6,
+  "reviewCount": 3963,
+  "inStock": true,
+  "tags": [
+   "4k",
+   "usb-c",
+   "ips"
+  ],
+  "releasedOn": "2025-04-25"
+ },
+ {
+  "id": "P0096",
+  "name": "Pinecrest 27 inch 4K Monitor SE",
+  "description": "Made for long days at the desk without the aches. Ships in recyclable packaging.",
+  "brand": "Pinecrest",
+  "category": "Home Office",
+  "price": 369.99,
+  "rating": 4.6,
+  "reviewCount": 712,
+  "inStock": true,
+  "tags": [
+   "4k",
+   "usb-c",
+   "ips"
+  ],
+  "releasedOn": "2024-04-06"
+ },
+ {
+  "id": "P0097",
+  "name": "Terrace Mechanical Keyboard Pro",
+  "description": "Made for long days at the desk without the aches. Energy efficient design.",
+  "brand": "Terrace",
+  "category": "Home Office",
+  "price": 159.99,
+  "rating": 4.2,
+  "reviewCount": 3107,
+  "inStock": true,
+  "tags": [
+   "mechanical",
+   "rgb",
+   "hot swappable"
+  ],
+  "releasedOn": "2024-05-21"
+ },
+ {
+  "id": "P0098",
+  "name": "Nordvik Mechanical Keyboard Lite",
+  "description": "Made for long days at the desk without the aches. Ships in recyclable packaging.",
+  "brand": "Nordvik",
+  "category": "Home Office",
+  "price": 74.99,
+  "rating": 3.7,
+  "reviewCount": 2119,
+  "inStock": true,
+  "tags": [
+   "mechanical",
+   "rgb",
+   "hot swappable"
+  ],
+  "releasedOn": "2025-06-20"
+ },
+ {
+  "id": "P0099",
+  "name": "Pinecrest Mechanical Keyboard SE",
+  "description": "Made for long days at the desk without the aches. Rated highly for build quality.",
+  "brand": "Pinecrest",
+  "category": "Home Office",
+  "price": 154.99,
+  "rating": 4.1,
+  "reviewCount": 1568,
+  "inStock": false,
+  "tags": [
+   "mechanical",
+   "rgb",
+   "hot swappable"
+  ],
+  "releasedOn": "2025-01-07"
+ }
+]
