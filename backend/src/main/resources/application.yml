@@ -1,0 +1,26 @@
+spring:
+  application:
+    name: product-search
+  elasticsearch:
+    uris: ${ELASTICSEARCH_URIS:http://localhost:9200}
+    connection-timeout: 2s
+    socket-timeout: 10s
+  jackson:
+    default-property-inclusion: non_null
+
+app:
+  search:
+    index: products
+    seed-on-startup: true
+  cors:
+    allowed-origins: http://localhost:5173,http://localhost:8081
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
